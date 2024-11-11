@@ -1,0 +1,2 @@
+# Detection-of-LAND-MINES
+MINI-PROJECT
