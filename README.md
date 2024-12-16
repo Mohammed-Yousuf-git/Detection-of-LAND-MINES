@@ -60,3 +60,8 @@
     <p>Adjust thresholds and calibration in the script to suit different lighting and camera setups.</p>
 </body>
 </html>
+<h2>Acknowledgement</h2
+
+I would like to extend my deepest gratitude to Dr. Victor A.I, professor at Maharaja Institute of Technology Mysore,for his invaluable guidance throughout this project
+
+
