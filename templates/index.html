@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+    <title>Gesture Mouse Control</title>
+</head>
+<body>
+    <div class="container">
+        <h1>Gesture Mouse Control</h1>
+        <button onclick="window.location.href='/start'">Start Gesture Detection</button>
+        <button onclick="window.location.href='/stop'">Stop Gesture Detection</button>
+    </div>
+</body>
+</html>
