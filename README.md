@@ -50,7 +50,7 @@
         <li>Press <code>q</code> to quit the program.</li>
     </ol>
 
-   <h2>Acknowledgments</h2>
+   <h2>Libraries</h2>
     <ul>
         <li><a href="https://mediapipe.dev/">Mediapipe</a> for its robust hand-tracking library.</li>
         <li><a href="https://pyautogui.readthedocs.io/">PyAutoGUI</a> for mouse automation.</li>
