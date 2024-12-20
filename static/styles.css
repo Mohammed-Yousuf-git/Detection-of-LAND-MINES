@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin-top: 50px;
+    background: url('images/Gesture_mouse.jpg.webp') no-repeat center center fixed;
+    background-size: cover;
+    color: rgb(252, 106, 2);
+}
+
+h1 {
+    font-size: 48px;
+    margin-bottom: 30px;
+}
+
+button {
+    padding: 15px 30px;
+    font-size: 18px;
+    color: rgb(255, 255, 255);
+    background-color: rgb(255, 157, 0);
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin: 20px;
+    transition: background-color 0.3s ease;
+}
+
+button:hover {
+    background-color: #fbd101;
+}
+
+.container {
+    margin-top: 200px;
+}
